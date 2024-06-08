@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972343360136",
+    "project_id": "testfb-ba7c5",
+    "storage_bucket": "testfb-ba7c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972343360136:android:1caef25cbdaf8b04923d3d",
+        "android_client_info": {
+          "package_name": "com.example.btl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDooNCj58Y2usSUtXqQ3PzVl9inUbp18E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
